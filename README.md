@@ -1,2 +1,5 @@
 # hello-world
-github repo
+
+Hi all,
+
+Typing some words to show repo functionality.
